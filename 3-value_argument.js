@@ -5,5 +5,5 @@ if (args[2] === undefined) {
 } else if (args[3] === undefined) {
   console.log('HBTN');
 } else {
-  console.log('HBTN cool`);
+  console.log(`2 arguments: "HBTN cool"`);
 }
